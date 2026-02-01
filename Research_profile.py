@@ -78,7 +78,7 @@ st.header(":blue[:material/calendar_clock: Future Research]")
 
 st.markdown("* **Doctor of Philosophy (PhD)**")
 st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of the Witwatersrand (Intended to start: 2027)")
-st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Machine Learning–Driven Optimization of Therapeutic Compounds for Parkinson’s &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Disease.")
+st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Machine Learning–Driven Optimization of Therapeutic Compounds for Parkinson’s Disease.")
 
 #Recent Interests
 st.header(":blue[:material/interests: Recent Interests]")
@@ -116,6 +116,7 @@ footer = f"""
 """
 
 st.markdown(footer, unsafe_allow_html=True)
+
 
 
 
