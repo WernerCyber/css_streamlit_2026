@@ -37,7 +37,7 @@ st.write(f"**Research Focus:** {field}")
 st.write(f"**Institution:** {institution}")
 
 st.image(
-"Wits_GH_banners.jpg",
+"wits_gh_banners.jpg",
 caption="Wits University")
 
 
@@ -116,6 +116,7 @@ footer = f"""
 """
 
 st.markdown(footer, unsafe_allow_html=True)
+
 
 
 
