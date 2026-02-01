@@ -49,11 +49,11 @@ st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of the Witwatersr
 
 st.markdown("* **Bachelor of Science Honours (BSc Hons)**")
 st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of the Witwatersrand (2024)")
-st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Topic: Investigating the effect of a novel anti-cancer compound on the ER stress response of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oesophageal cancer cells.")
+st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Topic: Investigating the effect of a novel anti-cancer compound on the ER stress response of oesophageal cancer cells.")
 
 st.markdown("* **Master of Science (MSc)**")
 st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of the Witwatersrand (2025, currently completing final year)")
-st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Discovering the anti-cancer potential Of novel metal-bilirubin complexes and derivatives &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and the mode of cell death induced.")
+st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Discovering the anti-cancer potential Of novel metal-bilirubin complexes and derivatives and the mode of cell death induced.")
 
 #Add bit about lab skills
 st.header(":blue[:material/lab_research: Research Skills]")
@@ -116,6 +116,7 @@ footer = f"""
 """
 
 st.markdown(footer, unsafe_allow_html=True)
+
 
 
 
